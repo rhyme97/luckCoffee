@@ -1,0 +1,10 @@
+{
+	"pages": [ 
+		{
+			"path": "pages/cinfo/cinfo",
+			"style": {
+				"navigationBarTitleText": "a"
+			}
+		}
+	]
+}

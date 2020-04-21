@@ -1,0 +1,11 @@
+{
+	"pages": [
+		{
+			"path": "pages/home/home",
+			"style": {
+				"navigationStyle": "default",
+				"navigationBarTitleText": "瑞幸"
+			}
+		}
+	]
+}

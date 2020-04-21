@@ -1,0 +1,36 @@
+	{
+		"tabBar": {
+		"list": [
+			{
+				"pagePath": "pages/home/home",
+				"text": "主页",
+				"iconPath": "./static/icon/shouye.png",
+				"selectedIconPath": "./static/icon/shouye1.png"
+			},
+			{
+				"pagePath": "pages/menu/menu",
+				"text": "菜单",
+				"iconPath": "./static/icon/caidan.png",
+				"selectedIconPath": "./static/icon/caidan1.png"
+			},
+			{
+				"pagePath": "pages/order/order",
+				"text": "订单",
+				"iconPath": "./static/icon/dingdan.png",
+				"selectedIconPath": "./static/icon/dingdan1.png"
+			},
+			{
+				"pagePath": "pages/cart/cart",
+				"text": "购物车",
+				"iconPath": "./static/icon/gouwuche.png",
+				"selectedIconPath": "./static/icon/gouwuche1.png"
+			},
+			{
+				"pagePath": "pages/mine/mine",
+				"text": "我的",
+				"iconPath": "./static/icon/wode.png",
+				"selectedIconPath": "./static/icon/wode1.png"
+			}
+		]
+	}
+}

@@ -1,0 +1,11 @@
+{
+  "pages": [
+    {
+      "path": "pages/pay/Pay",
+      "style": {
+        "navigationBarTitleText": "确认订单"
+      }
+    }
+  ]
+
+}

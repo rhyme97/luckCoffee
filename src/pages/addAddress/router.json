@@ -1,0 +1,12 @@
+{
+	"pages": [ 
+		{
+			"path": "pages/addAddress/addAddress",
+			"style": {
+				"navigationBarTitleText": "添加",
+				"backgroundColor":"#F1F5F0",
+				"navigationBarBackgroundColor":"#F5F0F0"
+			}
+		}
+	]
+}

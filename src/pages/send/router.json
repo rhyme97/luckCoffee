@@ -1,0 +1,12 @@
+{
+	"pages": [ 
+		{
+			"path": "pages/send/send",
+			"style": {
+				"navigationBarTitleText": "配送方式",
+				"backgroundColor":"#F1F5F0",
+				"navigationBarBackgroundColor":"#F5F0F0"
+			}
+		}
+	]
+}

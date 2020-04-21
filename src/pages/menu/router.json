@@ -1,0 +1,10 @@
+{
+	"pages": [ 
+		{
+			"path": "pages/menu/menu",
+			"style": {
+				"navigationBarTitleText": "菜单"
+			}
+		}
+	]
+}

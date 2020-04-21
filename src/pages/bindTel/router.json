@@ -1,0 +1,11 @@
+
+{
+	"pages": [ 
+		{
+			"path": "pages/bindTel/bindTel",
+			"style": {
+				"navigationBarTitleText": "电话号码绑定"
+			}
+		}
+	]
+}

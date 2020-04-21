@@ -1,0 +1,12 @@
+{
+	"pages": [ 
+		{
+			"path": "pages/chooseCity/chooseCity",
+			"style": {
+				"navigationBarTitleText": "选择城市",
+				"backgroundColor":"#F1F5F0",
+				"navigationBarBackgroundColor":"#F5F0F0"
+			}
+		}
+	]
+}

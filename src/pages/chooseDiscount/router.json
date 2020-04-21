@@ -1,0 +1,12 @@
+{
+	"pages": [ 
+		{
+			"path": "pages/chooseDiscount/chooseDiscount",
+			"style": {
+				"navigationBarTitleText": "选择优惠券",
+				"backgroundColor":"#F1F5F0",
+				"navigationBarBackgroundColor":"#F5F0F0"
+			}
+		}
+	]
+}

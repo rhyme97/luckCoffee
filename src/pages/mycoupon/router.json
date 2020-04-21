@@ -1,0 +1,10 @@
+{
+	"pages": [
+		{
+			"path": "pages/mycoupon/mycoupon",
+			"style": {
+				"navigationBarTitleText": "我的优惠券"
+			}
+		}
+	]
+}
